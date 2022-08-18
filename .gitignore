@@ -58,7 +58,6 @@ coverage.xml
 *.5
 
 # Local project data files
-*.json
 *.sql
 
 # Sphinx documentation
